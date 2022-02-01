@@ -74,3 +74,5 @@ yarn-error.log
 *.njsproj
 *.sln
 *.sw?
+# ignore commit message
+.gitcommit
